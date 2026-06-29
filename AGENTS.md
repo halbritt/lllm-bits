@@ -8,6 +8,7 @@ Repository-level instructions for AI coding agents.
 This repository is represented in the local/private Plane workspace `Proximal`.
 
 - Plane project: `Lllm Bits` (`LLLBIT`)
+- Issue tracker: Plane (`Proximal` workspace), project `Lllm Bits` (`LLLBIT`).
 - Plane URL: `https://proximal.tail0ecc2e.ts.net:10000/`
 - GitHub repo: `https://github.com/halbritt/lllm-bits`
 - Use Plane work items for multi-agent planning, claims, submitted artifacts, reviews, and acceptance decisions.
